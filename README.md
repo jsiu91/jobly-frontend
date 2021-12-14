@@ -11,9 +11,7 @@
 
 ## Components Schema
 
-<p>
-    <img alt="Components_graph" src="./components_graph/components_graph.jpg">
-</p>
+![alt text](https://github.com/jsiu91/jobly-frontend/blob/main/components_graph/components_graph.JPG?raw=true)
 
 
 ## Install
